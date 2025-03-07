@@ -24,3 +24,4 @@ This project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) 
 - **Backend:** Node.js, Express.js, JWT for authentication
 - **Database:** MongoDB, Mongoose
 - **Other Tools:** Redux (if using state management), Socket.io (if using real-time features)
+![Uploading Screenshot 2025-02-26 at 22.16.00.png…]()
