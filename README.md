@@ -1,5 +1,4 @@
-# MERN Stack Project (In Progress)
-
+# MERN Stack Project 
 A full-stack web application built with MongoDB, Express.js, React.js, and Node.js.
 
 ## 🚀 Overview
