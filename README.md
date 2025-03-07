@@ -1,4 +1,4 @@
-![Screenshot 2024-11-13 at 19 28 48](https://github.com/user-attachments/assets/475e631a-4fae-48d9-a26c-70e45e81e80f)<img width="1272" alt="Screenshot 2025-02-26 at 22 16 00" src="https://github.com/user-attachments/assets/2af7626c-575d-4848-86c7-95cdf044d9fe" /><img width="1272" alt="Screenshot 2025-02-26 at 22 16 00" src="https://github.com/user-attachments/assets/1207d52c-54b6-4a86-a748-857c7d653766" /># MERN Stack Project 
+MERN Stack Project 
 A full-stack web application built with MongoDB, Express.js, React.js, and Node.js.
 
 ## 🚀 Overview
