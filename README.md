@@ -40,9 +40,7 @@ This is a full-stack web application built using the **MERN Stack (MongoDB, Expr
 - **Machine Learning Integration:** Implement predictive analytics.
 - **CI/CD Pipeline:** Automate deployment using GitHub Actions or Jenkins.
 - **Dockerization:** Containerize the app for scalability.
-
-## 🤝 Contributing
-Feel free to fork the repository and submit a pull request for any improvements.
+  
 ---------------------------------------------------------------------------------------------
 🚀 Built with passion by Alina Macavei 
 
